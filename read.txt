@@ -1,2 +1,3 @@
 Creat a good git repository.
 Git is s free sofeware.
+I'm learning git.
